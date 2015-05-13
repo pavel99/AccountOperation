@@ -1,0 +1,15 @@
+E:\Pavel\29.05.15\AccountOperation\AccountOperation\bin\Debug\AccountOperation.exe.config
+E:\Pavel\29.05.15\AccountOperation\AccountOperation\bin\Debug\AccountOperation.exe
+E:\Pavel\29.05.15\AccountOperation\AccountOperation\bin\Debug\AccountOperation.pdb
+E:\Pavel\29.05.15\AccountOperation\AccountOperation\obj\Debug\AccountOperation.csprojResolveAssemblyReference.cache
+E:\Pavel\29.05.15\AccountOperation\AccountOperation\obj\Debug\AccountOperation.AccountOperationUI.resources
+E:\Pavel\29.05.15\AccountOperation\AccountOperation\obj\Debug\AccountOperation.Properties.Resources.resources
+E:\Pavel\29.05.15\AccountOperation\AccountOperation\obj\Debug\AccountOperation.csproj.GenerateResource.Cache
+E:\Pavel\29.05.15\AccountOperation\AccountOperation\obj\Debug\AccountOperation.exe
+E:\Pavel\29.05.15\AccountOperation\AccountOperation\obj\Debug\AccountOperation.pdb
+J:\02.05.15\AccountOperation\AccountOperation\bin\Debug\AccountOperation.exe.config
+J:\02.05.15\AccountOperation\AccountOperation\obj\Debug\AccountOperation.exe
+J:\02.05.15\AccountOperation\AccountOperation\obj\Debug\AccountOperation.pdb
+E:\Mizan\02.05.15\AccountOperation\AccountOperation\bin\Debug\AccountOperation.exe.config
+E:\Mizan\02.05.15\AccountOperation\AccountOperation\obj\Debug\AccountOperation.exe
+E:\Mizan\02.05.15\AccountOperation\AccountOperation\obj\Debug\AccountOperation.pdb
